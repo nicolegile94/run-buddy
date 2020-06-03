@@ -8,7 +8,9 @@ A website that offers fitness training and services.
 * CSS
 
 ## Website
-https://nicolegile94.github.io/run-buddy/#what-you-do
+https://nicolegile94.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Nicole Gile Porter
+
+### ©️2019 Run Buddy, Inc
